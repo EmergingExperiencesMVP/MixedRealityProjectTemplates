@@ -13,8 +13,8 @@
     <ProjectGuid>{01BDBF38-83F3-4360-A6FC-30A63F2C47B0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MixedRealityProjectTemplate</RootNamespace>
-    <AssemblyName>MixedRealityProjectTemplate</AssemblyName>
+    <RootNamespace>MixedRealityTemplate</RootNamespace>
+    <AssemblyName>MixedRealityTemplate</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>

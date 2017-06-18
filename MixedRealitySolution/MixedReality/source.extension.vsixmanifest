@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="MixedRealityProjectTemplates.TSE.7f071306-85dd-442e-b224-7aa0e334165b" Version="1.1" Language="en-US" Publisher="THOTH Speed Engineers" />
-    <DisplayName>MixedRealityProjectTemplates</DisplayName>
+    <Identity Id="MixedRealityTemplates.TSE.7f071306-85dd-442e-b224-7aa0e334165b" Version="1.0" Language="en-US" Publisher="TSEngineers" />
+    <DisplayName>MixedRealityTemplates</DisplayName>
     <Description xml:space="preserve">Mixed Reality Project Templates for C++, DirectX, and C# SharpDX with Holographic apis</Description>
     <Icon>mixedreality_icon.ico</Icon>
     <PreviewImage>mixedreality_icon.ico</PreviewImage>
